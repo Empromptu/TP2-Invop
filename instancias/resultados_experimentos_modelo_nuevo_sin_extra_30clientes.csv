@@ -1,0 +1,31 @@
+archivo,status,valor_objetivo,tiempo_segundos
+instancia_0_30_clientes.txt,"integer optimal, tolerance",24162.0,9.977224111557007
+instancia_1_30_clientes.txt,"integer optimal, tolerance",30881.0,40.94839429855347
+instancia_2_30_clientes.txt,"integer optimal, tolerance",24833.0,619.2083477973938
+instancia_3_30_clientes.txt,integer optimal solution,24448.0,3.337650775909424
+instancia_4_30_clientes.txt,"integer optimal, tolerance",24014.0,84.96798634529114
+instancia_5_30_clientes.txt,"integer optimal, tolerance",20577.0,67.3676233291626
+instancia_6_30_clientes.txt,"integer optimal, tolerance",40015.0,2.8484079837799072
+instancia_7_30_clientes.txt,"integer optimal, tolerance",41317.0,55.23849320411682
+instancia_8_30_clientes.txt,"integer optimal, tolerance",27439.0,89.53081154823303
+instancia_9_30_clientes.txt,integer optimal solution,35634.0,5.344670295715332
+instancia_10_30_clientes.txt,"integer optimal, tolerance",40016.0,40.65244746208191
+instancia_11_30_clientes.txt,nan,nan,nan
+instancia_12_30_clientes.txt,"integer optimal, tolerance",32804.0,95.03648328781128
+instancia_13_30_clientes.txt,"integer optimal, tolerance",46271.0,2.8888003826141357
+instancia_14_30_clientes.txt,"integer optimal, tolerance",31912.0,85.77799963951111
+instancia_15_30_clientes.txt,integer optimal solution,29354.0,0.4160943031311035
+instancia_16_30_clientes.txt,integer optimal solution,47354.0,0.5453789234161377
+instancia_17_30_clientes.txt,integer optimal solution,27043.0,3.038144111633301
+instancia_18_30_clientes.txt,"integer optimal, tolerance",29907.0,12.043767213821411
+instancia_19_30_clientes.txt,"integer optimal, tolerance",24918.0,3338.654014110565
+instancia_20_30_clientes.txt,integer optimal solution,8916.0,1.0592398643493652
+instancia_21_30_clientes.txt,"integer optimal, tolerance",46410.0,0.7428643703460693
+instancia_22_30_clientes.txt,integer optimal solution,17510.0,0.9132070541381836
+instancia_23_30_clientes.txt,"integer optimal, tolerance",32996.0,40.21250605583191
+instancia_24_30_clientes.txt,integer optimal solution,12536.0,4.53204870223999
+instancia_25_30_clientes.txt,integer optimal solution,16498.0,4.869456052780151
+instancia_26_30_clientes.txt,integer optimal solution,19781.0,1.8705921173095703
+instancia_27_30_clientes.txt,"integer optimal, tolerance",22307.0,549.1969525814056
+instancia_28_30_clientes.txt,"integer optimal, tolerance",28995.0,6541.895604848862
+instancia_29_30_clientes.txt,"integer optimal, tolerance",38479.0,2373.810332298279
