@@ -1,8 +1,9 @@
 import random
 import math
 
-def crearInstancia(n, costo_repartidor = -1, dist_max = -1, cant_refrigerados = -1, cant_exclusivos = -1):
+def crearInstancia(n,m, costo_repartidor = -1, dist_max = -1, cant_refrigerados = -1, cant_exclusivos = -1):
     # n es la cantidad de clientes que quiere que tenga esta instancia
+    # m es el numero\identificador de la instancia generada
     # si no completan los demas datos, los generamos aleatoriamente
     if costo_repartidor < 0:
         costo_repartidor = random.randint(0,1000)
@@ -28,7 +29,7 @@ def crearInstancia(n, costo_repartidor = -1, dist_max = -1, cant_refrigerados = 
             distancias[i][j] = distancias[j][i] = d
 
     #generamos la instancia en un archivo de texto:
-    with open(f'instancia_{n}.txt', 'w') as archivo:
+    with open(f'instancia_{m}_{n}_clientes.txt', 'w') as archivo:
         archivo.write(f'{n}\n')
         archivo.write(f'{costo_repartidor}\n')
         archivo.write(f'{dist_max}\n')
@@ -48,5 +49,7 @@ def crearInstancia(n, costo_repartidor = -1, dist_max = -1, cant_refrigerados = 
 
 if __name__ == "__main__":
     n = int(input("Ingrese la cantidad de clientes: "))
-    crearInstancia(n)
-    print(f"Instancia de {n} clientes generada correctamente.")
+    m = int(input('Ingrese la cantidad de archivos/instancias a generar: '))
+    for i in range(m):
+        crearInstancia(n,i)
+        print(f"Instancia de {n} clientes generada correctamente.")
