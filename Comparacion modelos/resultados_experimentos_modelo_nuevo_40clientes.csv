@@ -1,0 +1,32 @@
+archivo,status,valor_objetivo,tiempo_segundos
+instancia_0_40_clientes.txt,integer optimal solution,50004.0,8.737427711486816
+instancia_1_40_clientes.txt,"integer optimal, tolerance",37539.00000000011,125.99632835388184
+instancia_2_40_clientes.txt,"integer optimal, tolerance",48623.0,1.1737802028656006
+instancia_3_40_clientes.txt,"integer optimal, tolerance",53895.0,0.6996970176696777
+instancia_4_40_clientes.txt,"integer optimal, tolerance",48805.0,13.491060495376587
+instancia_5_40_clientes.txt,"integer optimal, tolerance",52148.0,1.9590330123901367
+instancia_6_40_clientes.txt,"integer optimal, tolerance",54399.0,2.024350643157959
+instancia_7_40_clientes.txt,nan,nan,nan
+instancia_8_40_clientes.txt,"integer optimal, tolerance",46724.0,6.9247589111328125
+instancia_9_40_clientes.txt,"integer optimal, tolerance",51179.000000000015,14.002711057662964
+instancia_10_40_clientes.txt,"integer optimal, tolerance",54315.0,7.414203643798828
+instancia_11_40_clientes.txt,"integer optimal, tolerance",53197.0,5.461284875869751
+instancia_12_40_clientes.txt,"integer optimal, tolerance",49062.0,84.15115118026733
+instancia_13_40_clientes.txt,"integer optimal, tolerance",46908.0,6.917572498321533
+instancia_14_40_clientes.txt,"integer optimal, tolerance",37648.0,12.58286190032959
+instancia_15_40_clientes.txt,"integer optimal, tolerance",52161.0,5.1701743602752686
+instancia_16_40_clientes.txt,nan,nan,nan
+instancia_17_40_clientes.txt,"integer optimal, tolerance",51158.00000000003,10.461772918701172
+instancia_18_40_clientes.txt,"integer optimal, tolerance",37968.00000000461,19.640700817108154
+instancia_19_40_clientes.txt,integer optimal solution,44648.0,1.8491010665893555
+instancia_20_40_clientes.txt,"integer optimal, tolerance",49476.99999999999,8.838600873947144
+instancia_21_40_clientes.txt,"integer optimal, tolerance",52811.0,1.6003646850585938
+instancia_22_40_clientes.txt,"integer optimal, tolerance",49417.00000000003,21.6101655960083
+instancia_23_40_clientes.txt,"integer optimal, tolerance",49139.0,69.40198349952698
+instancia_24_40_clientes.txt,"integer optimal, tolerance",35908.0,8564.756477832794
+instancia_25_40_clientes.txt,"integer optimal, tolerance",54391.0,51.6659197807312
+instancia_26_40_clientes.txt,"integer optimal, tolerance",45006.0,491.2188136577606
+instancia_27_40_clientes.txt,"integer optimal, tolerance",47451.0,58.88111591339111
+instancia_28_40_clientes.txt,"integer optimal, tolerance",48868.0,7.6479692459106445
+instancia_29_40_clientes.txt,"integer optimal, tolerance",45205.0,637.1133608818054
+
